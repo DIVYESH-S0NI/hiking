@@ -1,0 +1,238 @@
+@media screen and (max-width:992px) {
+  .its {
+    font-size: 71px;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .its {
+    font-size: 55px;
+    padding-top: 183px;
+  }
+
+  .section-1 {
+    padding: 0;
+  }
+
+  .lorem2 {
+    width: 355px;
+  }
+
+  .org {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .rever {
+    flex-direction: column-reverse;
+  }
+
+  .numss1 {
+    order: 4;
+  }
+
+
+  .numss2 {
+    width: 33%;
+    padding: 0 59px;
+  }
+
+  .numss3 {
+    width: 33%;
+    padding: 0 53px;
+
+  }
+
+  .numss4 {
+    width: 33%;
+    padding: 0 75px;
+
+  }
+
+  .about {
+    padding-top: 70px;
+  }
+
+  .titl {
+    font-size: 60px;
+  }
+
+  .sec-7 {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width:580px) {
+  .header1 {
+    display: none;
+  }
+
+  .its {
+    font-size: 45px;
+    padding-top: 183px;
+  }
+
+  .its {
+    font-size: 42px;
+  }
+
+  .lorem2 {
+    width: 262px;
+  }
+
+  .numss2 {
+    width: 33%;
+    padding: 0 18px;
+  }
+
+  .numss3 {
+    width: 33%;
+    padding: 0 23px;
+  }
+
+  .numss4 {
+    width: 33%;
+    padding: 0 42px;
+  }
+
+  .text-center {
+    padding: 0 0 15px;
+  }
+
+  .exp {
+    padding: 252px 23px 0 73px;
+  }
+
+  .exp2 {
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width:414px) {
+  .exp {
+    padding: 252px 0px 0 68px;
+    font-size: 18px;
+  }
+
+  .exp2 {
+    font-size: 14px;
+  }
+
+  .its {
+    font-size: 30px;
+  }
+
+  .lorem {
+    font-size: 12px;
+  }
+
+  .lorem2 {
+    width: 207px;
+    font-size: 13px;
+  }
+
+  .fasb {
+    flex-direction: row;
+    gap: 10px;
+  }
+
+  .numss2 {
+    width: 50%;
+    padding: 0 34px;
+  }
+
+  .numss3 {
+    width: 50%;
+    padding: 0 26px;
+  }
+
+  .numss4 {
+    width: 50%;
+    padding: 0 34px;
+    padding-top: 41px;
+  }
+
+  .bttn-8 {
+    margin-top: 18px;
+    border-radius: 15px;
+  }
+
+  .hi {
+    font-size: 22px;
+  }
+
+  .hi1 {
+    font-size: 18 px;
+  }
+
+  .l10 {
+    font-size: 18px;
+    color: #7f7770;
+  }
+
+  .go {
+    font-size: 22px;
+  }
+
+  .take-your {
+    font-size: 23px;
+  }
+
+  .jump-start-2 {
+    font-size: 16px;
+  }
+
+  .bgpp22 {
+    font-size: 23px;
+  }
+
+  .bgpp33 {
+    font-size: 16px;
+  }
+
+  .containt {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 0px;
+  }
+
+  .titl {
+    font-size: 36px;
+  }
+
+  .titl2 {
+    font-size: 20px;
+  }
+
+  .lor {
+    padding: 30px 0;
+  }
+
+}
+
+@media screen and (max-width:375px) {
+  .numss2 {
+    width: 100%;
+    padding: 0 34px;
+  }
+
+  .numss3 {
+    width: 100%;
+    padding: 0 26px;
+    padding-top: 50px;
+  }
+
+  .numss4 {
+    width: 50%;
+    padding: 0 24px;
+    padding-top: 41px;
+  }
+
+  .go {
+    font-size: 36px;
+  }
+
+  .l10 {
+    font-size: 26px;
+  }
+}
